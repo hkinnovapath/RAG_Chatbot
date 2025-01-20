@@ -6,3 +6,4 @@ datasets
 faiss-cpu
 accelerate
 torch
+sentence_transformers
