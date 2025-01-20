@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+peft
+datasets
+faiss-cpu
+accelerate
+torch
